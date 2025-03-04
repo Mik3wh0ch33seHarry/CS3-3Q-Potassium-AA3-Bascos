@@ -1,4 +1,4 @@
-function callAFunction() {
+function callFunction() {
 	let Message = prompt('Enter the message:');
 	
 	if (Message.includes("FR")|| Message.includes("FR") && Message.includes("AI")) {
